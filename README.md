@@ -1,4 +1,4 @@
-The hash data is stored as ~baseline.csv~ in the /tmp directory.
+The hash data is stored as baseline.csv in the /tmp directory.
 
 If the file exists then ./hash.py will hash all the files on your system and compare them to the existing baseline.csv file. Then it wil print out any differences and write them to the baseline.csv file.
 
